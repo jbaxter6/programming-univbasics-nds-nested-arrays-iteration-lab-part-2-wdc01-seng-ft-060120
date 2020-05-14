@@ -17,13 +17,14 @@ row_index = 0
               
               min_value == src [row_index][element_index]
               
+            small_num_array << min_value
+            
             end
             
             element_index += 1
             
         end
      
-    small_num_array << min_value
     
     row_index += 1
     
