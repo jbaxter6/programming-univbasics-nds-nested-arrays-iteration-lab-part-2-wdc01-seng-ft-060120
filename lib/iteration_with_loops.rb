@@ -9,8 +9,6 @@ row_index = 0
       
       element_index = 0
       
-      min_value = src[0][0]
-      
         while element_index < src[row_index].count do
           
             if src[row_index][element_index] < min_value
