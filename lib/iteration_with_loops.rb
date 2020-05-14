@@ -26,6 +26,7 @@ row_index = 0
         end
      
     small_num_array << min_value
+    
     row_index += 1
     
     end
