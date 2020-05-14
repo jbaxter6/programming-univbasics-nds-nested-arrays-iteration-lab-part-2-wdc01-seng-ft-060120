@@ -20,9 +20,8 @@ row_index = 0
 
             end
             
-            small_num_array << min_value
-            
             element_index += 1
+            small_num_array << min_value
             
         end
      
