@@ -7,7 +7,7 @@ row_index = 0
 
     while src[row_index] < src.count do
       
-      small_num_array << src.row_index.min
+      small_num_array.push(src[row_index].min)
       
       row_index += 1
   
