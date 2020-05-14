@@ -21,11 +21,11 @@ row_index = 0
             end
             
             element_index += 1
-            small_num_array << min_value
+            
             
         end
      
-    
+    small_num_array << min_value
     row_index += 1
     
     end
